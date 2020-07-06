@@ -1,6 +1,9 @@
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from . models import Customer_info
+from django.core.mail import send_mail
+from django.conf import settings
+from django.template.loader import render_to_string
 
 
 def home(request):
@@ -18,11 +21,22 @@ def portfolio(request):
 def team(request):
     return render(request, 'website/team.html')
 def contact(request):
-    print('sent sucessfully.')
-    customer_name = request.POST['name']
-    customer_mail = request.POST['email']
-    customer_subject =  request.POST['subject']
-    customer_messege = request.POST['message']
-    Customer = Customer_info(customer_name=customer_name,customer_mail=customer_mail,customer_subject=customer_subject,customer_messege=customer_messege)
-    Customer.save('sent')
-    return render(request, 'website/index.html')
+    if request.method == "POST":
+        erp_name = request.POST['name']
+        erp_massege = request.POST['message']
+        send_mail(
+            'NEW ERP WEBSITE',
+            erp_massege,
+            settings.EMAIL_HOST_USER,
+            ['subhambasu980@gmail.com'],
+
+            fail_silently=False,
+        )
+
+        return render(request, 'website/contact.html', {'erp_name': erp_name})
+    else:
+        return render(request, 'website/contact.html')
+
+
+
+

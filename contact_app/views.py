@@ -4,7 +4,7 @@ from django.conf import settings
 from django.template.loader import render_to_string
 
 def erp_mail(request):
-    template = render_to_string('contact_app/index.html',{})
+    template = render_to_string('contact_app/contact_app.html',{})
 
     if request.method== "POST":
         erp_name = request.POST['name']
@@ -21,7 +21,7 @@ def erp_mail(request):
             fail_silently=False,
         )
 
-        return render(request, 'contact_app/index.html', {'erp_name': erp_name})
+        return render(request, 'contact_app/contact_app.html', {'erp_name': erp_name})
     else:
-        return render(request, 'contact_app/index.html')
+        return render(request, 'contact_app/contact_app.html')
 
