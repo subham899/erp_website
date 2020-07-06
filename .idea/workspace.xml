@@ -2,392 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a66f5c-fae8-4278-abc8-8092657cda68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/about-extra-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/about-extra-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/about-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/header-bg.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/intro-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/intro-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/logo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/app1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/app2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/app3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/card1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/card2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/card3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/web1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/web2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/web3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/team-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/team-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/team-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/animate.css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/animate.css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/counterup/counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/css/font-awesome.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/icofont/fonts/icofont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/icofont/fonts/icofont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/icofont/icofont.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/css/ionicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/jquery.easing/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/mobile-nav/mobile-nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/php-email-form/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/venobox/venobox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/venobox/venobox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/venobox/venobox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/waypoints/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/wow/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/assets/vendor/wow/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/forms/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/static/forms/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_app/templates/contact_app/contact_app.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/erp_make_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/css/style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/about-extra-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/about-extra-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/about-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/header-bg.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/intro-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/intro-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/logo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/newlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/app1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/app2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/app3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/card1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/card2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/card3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/web1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/web2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/web3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/team-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/team-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/team-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/animate.css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/animate.css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/counterup/counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/css/font-awesome.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/icofont/fonts/icofont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/icofont/fonts/icofont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/icofont/icofont.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/css/ionicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/jquery.easing/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/jquery/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/mobile-nav/mobile-nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/php-email-form/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/venobox/venobox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/venobox/venobox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/venobox/venobox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/waypoints/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/wow/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/assets/vendor/wow/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/about-extra-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/about-extra-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/about-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/clients/client-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/clients/client-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/clients/client-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/clients/client-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/clients/client-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/clients/client-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/clients/client-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/clients/client-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/header-bg.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/intro-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/intro-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/logo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/portfolio/app1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/portfolio/app2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/portfolio/app3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/portfolio/card1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/portfolio/card2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/portfolio/card3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/portfolio/web1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/portfolio/web2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/portfolio/web3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/team-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/team-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/team-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/testimonial-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/testimonial-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/testimonial-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/testimonial-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/img/testimonial-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/default-assets/active.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/default-assets/ajax-content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/default-assets/avoid.console.error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/default-assets/classynav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/default-assets/jquery.barfiller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/default-assets/jquery.scrollup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/dento.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/jarallax-video.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/jarallax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/jquery.counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/adds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/animate.css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/animate.css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/counterup/counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/css/font-awesome.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/icofont/fonts/icofont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/icofont/fonts/icofont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/icofont/icofont.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/css/ionicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/jquery.easing/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/mobile-nav/mobile-nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/php-email-form/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/venobox/venobox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/venobox/venobox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/venobox/venobox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/waypoints/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/wow/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/static/vendor/wow/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/templates/website/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/templates/website/contact1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/Template/eployee_app/Base.html" beforeDir="false" afterPath="$PROJECT_DIR$/eployee_app/templates/eployee_app/Base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/Template/eployee_app/Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/eployee_app/templates/eployee_app/Form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/Template/eployee_app/List.html" beforeDir="false" afterPath="$PROJECT_DIR$/eployee_app/templates/eployee_app/List.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -445,7 +66,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1eCQ5nCZ14fzCnoeGbOtHSsManM" />
   <component name="ProjectViewState">
@@ -477,6 +98,7 @@
       <recent name="C:\pythoneproject\website\websiteapp\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pythoneproject\website\eployee_app\templates\eployee_app" />
       <recent name="C:\pythoneproject\website\websiteapp\templates\website" />
       <recent name="C:\pythoneproject\website\websiteapp" />
       <recent name="C:\pythoneproject\website\aboutapp\templates\aboutapp" />
@@ -538,7 +160,7 @@
       <workItem from="1589551028992" duration="643000" />
       <workItem from="1589607681846" duration="4491000" />
       <workItem from="1593822960727" duration="1615000" />
-      <workItem from="1594049770939" duration="14277000" />
+      <workItem from="1594049770939" duration="15919000" />
     </task>
     <task id="LOCAL-00001" summary="website app 4">
       <created>1594052177613</created>
@@ -558,10 +180,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="website app 4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="212" y="8" key="#Notifications" timestamp="1594052205247">
+    <state x="212" y="8" key="#Notifications" timestamp="1594067622945">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="212" y="8" key="#Notifications/0.0.1440.860@0.0.1440.860" timestamp="1594052205247" />
+    <state x="212" y="8" key="#Notifications/0.0.1440.860@0.0.1440.860" timestamp="1594067622945" />
     <state x="174" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594059824546">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -570,29 +192,29 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="-4" y="0" width="1194" height="860" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1594052176556" />
-    <state width="1385" height="192" key="GridCell.Tab.0.bottom" timestamp="1594063933807">
+    <state width="1385" height="192" key="GridCell.Tab.0.bottom" timestamp="1594066948602">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1385" height="192" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1594063933807" />
-    <state width="1385" height="192" key="GridCell.Tab.0.center" timestamp="1594063933807">
+    <state width="1385" height="192" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1594066948602" />
+    <state width="1385" height="192" key="GridCell.Tab.0.center" timestamp="1594066948601">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1385" height="192" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1594063933807" />
-    <state width="1385" height="192" key="GridCell.Tab.0.left" timestamp="1594063933807">
+    <state width="1385" height="192" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1594066948601" />
+    <state width="1385" height="192" key="GridCell.Tab.0.left" timestamp="1594066948601">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1385" height="192" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1594063933807" />
-    <state width="1385" height="192" key="GridCell.Tab.0.right" timestamp="1594063933807">
+    <state width="1385" height="192" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1594066948601" />
+    <state width="1385" height="192" key="GridCell.Tab.0.right" timestamp="1594066948601">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1385" height="192" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1594063933807" />
+    <state width="1385" height="192" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1594066948601" />
     <state x="346" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1594049777724">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="346" y="216" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1594049777724" />
-    <state x="478" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594052104934">
+    <state x="478" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594067600856">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="478" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1594052104934" />
+    <state x="478" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1594067600856" />
   </component>
 </project>
