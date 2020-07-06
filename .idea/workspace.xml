@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30a66f5c-fae8-4278-abc8-8092657cda68" name="Default Changelist" comment="" />
+    <list default="true" id="30a66f5c-fae8-4278-abc8-8092657cda68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aboutapp/templates/aboutapp/aboutapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aboutapp/templates/aboutapp/serviceapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/.idea/website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websiteapp/templates/website/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/aboutapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/Template/HOME.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/Template/HOME.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/Template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/Template/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutapp/templates/aboutapp/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/Template/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/serviceapp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/Template/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/website/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +72,9 @@
       <find>we</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eCQ5nCZ14fzCnoeGbOtHSsManM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,8 +83,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/teamapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/websiteapp/templates/website" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,15 +97,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\pythoneproject\website\website\Template" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pythoneproject\website\websiteapp\templates\website" />
       <recent name="C:\pythoneproject\website\teamapp" />
       <recent name="C:\pythoneproject\website\portfolioapp" />
       <recent name="C:\pythoneproject\website\servicesapp\migrations" />
       <recent name="C:\pythoneproject\website\servicesapp" />
-      <recent name="C:\pythoneproject\website\aboutapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pythoneproject\website\websiteapp\templates\website" />
+      <recent name="C:\pythoneproject\website\websiteapp" />
+      <recent name="C:\pythoneproject\website\aboutapp\templates\aboutapp" />
+      <recent name="C:\pythoneproject\website\website\Template" />
     </key>
   </component>
   <component name="RunManager">
@@ -143,6 +166,7 @@
       <workItem from="1589551028992" duration="643000" />
       <workItem from="1589607681846" duration="4491000" />
       <workItem from="1593822960727" duration="1615000" />
+      <workItem from="1594049770939" duration="1252000" />
     </task>
     <servers />
   </component>
@@ -150,9 +174,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="346" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1594013523751">
+    <state width="1385" height="192" key="GridCell.Tab.0.bottom" timestamp="1594051019432">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="346" y="216" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1594013523751" />
+    <state width="1385" height="192" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1594051019432" />
+    <state width="1385" height="192" key="GridCell.Tab.0.center" timestamp="1594051019432">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1385" height="192" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1594051019432" />
+    <state width="1385" height="192" key="GridCell.Tab.0.left" timestamp="1594051019432">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1385" height="192" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1594051019432" />
+    <state width="1385" height="192" key="GridCell.Tab.0.right" timestamp="1594051019432">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1385" height="192" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1594051019432" />
+    <state x="346" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1594049777724">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="346" y="216" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1594049777724" />
   </component>
 </project>

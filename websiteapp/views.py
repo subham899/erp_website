@@ -4,19 +4,19 @@ from . models import Customer_info
 
 
 def home(request):
-    return render(request, 'index.html')
+    return render(request, 'website/index.html')
 
 def newabout(request):
-    return render(request, 'about.html')
+    return render(request, 'website/about.html')
 
 def service(request):
-    return render(request, 'service.html')
+    return render(request, 'website/serviceapp.html')
 
 def portfolio(request):
-    return render(request, 'portfolio.html')
+    return render(request, 'website/portfolio.html')
 
 def team(request):
-    return render(request, 'team.html')
+    return render(request, 'website/team.html')
 def contact(request):
     print('sent sucessfully.')
     customer_name = request.POST['name']
@@ -25,4 +25,4 @@ def contact(request):
     customer_messege = request.POST['message']
     Customer = Customer_info(customer_name=customer_name,customer_mail=customer_mail,customer_subject=customer_subject,customer_messege=customer_messege)
     Customer.save('sent')
-    return render(request, 'index.html')
+    return render(request, 'website/index.html')
