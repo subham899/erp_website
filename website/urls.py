@@ -29,5 +29,4 @@ urlpatterns = [
     path('',include('contact_app.urls')),
 
 
-
 ]

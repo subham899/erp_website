@@ -21,11 +21,10 @@ from websiteapp import views
 urlpatterns = [
 
     path('', views.home, name='erp_index'),
-
-    path('newabout', views.newabout, ),
-    path('service', views.service),
-    path('portfolio', views.portfolio),
-    path('team', views.team),
-    path('contact', views.contact),
+    path('newabout', views.newabout, name='newabout'),
+    path('service', views.service, name='service'),
+    path('portfolio', views.portfolio, name='portfolio'),
+    path('team', views.team, name='team'),
+    path('contact', views.contact, name='contact'),
 
 ]

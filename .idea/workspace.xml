@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a66f5c-fae8-4278-abc8-8092657cda68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aboutapp/templates/aboutapp/aboutapp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aboutapp/templates/aboutapp/serviceapp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/.idea/website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websiteapp/templates/website/portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/aboutapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/Template/HOME.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/Template/HOME.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/Template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/Template/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutapp/templates/aboutapp/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/Template/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/serviceapp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/Template/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/website/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/website/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +63,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1eCQ5nCZ14fzCnoeGbOtHSsManM" />
   <component name="ProjectViewState">
@@ -166,7 +156,7 @@
       <workItem from="1589551028992" duration="643000" />
       <workItem from="1589607681846" duration="4491000" />
       <workItem from="1593822960727" duration="1615000" />
-      <workItem from="1594049770939" duration="1252000" />
+      <workItem from="1594049770939" duration="2332000" />
     </task>
     <servers />
   </component>
@@ -194,5 +184,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="346" y="216" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1594049777724" />
+    <state x="478" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594052104934">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="478" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1594052104934" />
   </component>
 </project>
