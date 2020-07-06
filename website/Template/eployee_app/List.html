@@ -1,0 +1,117 @@
+{% extends 'eployee_app/Base.html' %}
+
+{% block content %}
+    {% load static %}
+<body id="" style="background-image: url('{% static "img/modern-halftone-pattern-background_1035-18855.jpg"%}')";>
+    <table class="table table-borderless">
+      <thead class="border-bottom font-weight-blood">
+      <tr>
+          <td>Full Name</td>
+          <td> Mobile</td>
+          <td>Position</td>
+          <td>
+              <a href="{% url 'em_insert'%}" class="btn text-secondary px-0">
+                <i  class="btn btn-primary">ADD</i>
+              </a>
+          </td>
+      </tr>
+      </thead>
+    <tbody>
+    {% for Employee in Employee_list %}
+        <tr>
+         <td>{{Employee.Full_name}}</td>
+         <td>{{Employee.Mobile_no}}</td>
+         <td>{{Employee.Position}}</td>
+        <td>
+            <a href="{% url 'em_update' Employee.id %}" class="glyphicon glyphicon-edit">
+                <i style="font-size:24px"  class="fas fa-edit"></i>>&#xf044;</i>
+            </a>
+        </td><td>
+            <form action="{% url 'ep_delete' Employee.id%}" method="post">
+                {% csrf_token %}
+                <button class="button button3">delete</button>
+            </form>
+        </td>
+        </tr>
+    {% endfor %}
+    </tbody>
+    </table>
+</body>
+
+
+<style>
+ .button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 3px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.button3 {
+  background-color: white;
+  color: black;
+  border: 2px solid #f44336;
+}
+
+.button3:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+.button4 {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: #e7e7e7;}
+
+.button5 {
+  background-color: white;
+  color: black;
+  border: 1px solid #555555;
+}
+
+.button5:hover {
+  background-color: #555555;
+  color: white;
+}
+#bg{
+    background-size: 1800px 900px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+</style>
+
+{% endblock %}
