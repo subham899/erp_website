@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a66f5c-fae8-4278-abc8-8092657cda68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/servicesapp/templates/servicesapp/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servicesapp/templates/servicesapp/contact_app.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servicesapp/templates/servicesapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servicesapp/templates/servicesapp/portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servicesapp/templates/servicesapp/team.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/website.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_app/templates/contact_app/contact_app.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_app/templates/contact_app/contact_app.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolioapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servicesapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/servicesapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/serviceapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/serviceapp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/templates/eployee_app/Base.html" beforeDir="false" afterPath="$PROJECT_DIR$/eployee_app/templates/eployee_app/Base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/templates/eployee_app/List.html" beforeDir="false" afterPath="$PROJECT_DIR$/eployee_app/templates/eployee_app/List.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,26 +43,6 @@
         <option value="HTML File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>menu</find>
-      <find>navbar-toggler navbar-toggler-right</find>
-      <find>main</find>
-      <find>Clarence Taylor</find>
-      <find>NewBiz</find>
-      <find>About</find>
-      <find>team</find>
-      <find>intro</find>
-      <find>services</find>
-      <find>Get Started</find>
-      <find>myFunction</find>
-      <find>get st</find>
-      <find>style.</find>
-      <find>intr</find>
-      <find>intro-info</find>
-      <find>we</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -171,7 +142,8 @@
       <workItem from="1589607681846" duration="4491000" />
       <workItem from="1593822960727" duration="1615000" />
       <workItem from="1594049770939" duration="16037000" />
-      <workItem from="1594276799916" duration="5087000" />
+      <workItem from="1594276799916" duration="5685000" />
+      <workItem from="1594290580289" duration="4449000" />
     </task>
     <task id="LOCAL-00001" summary="website app 4">
       <created>1594052177613</created>
@@ -223,10 +195,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1385" height="192" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1594282121619" />
-    <state x="346" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1594276809472">
+    <state x="346" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1594290588152">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="346" y="216" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1594276809472" />
+    <state x="346" y="216" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1594290588152" />
     <state x="478" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594067600856">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
