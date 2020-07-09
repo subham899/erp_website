@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a66f5c-fae8-4278-abc8-8092657cda68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/website.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eployee_app/templates/eployee_app/Base.html" beforeDir="false" afterPath="$PROJECT_DIR$/eployee_app/templates/eployee_app/Base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eployee_app/templates/eployee_app/List.html" beforeDir="false" afterPath="$PROJECT_DIR$/eployee_app/templates/eployee_app/List.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +138,7 @@
       <workItem from="1593822960727" duration="1615000" />
       <workItem from="1594049770939" duration="16037000" />
       <workItem from="1594276799916" duration="5685000" />
-      <workItem from="1594290580289" duration="4449000" />
+      <workItem from="1594290580289" duration="6085000" />
     </task>
     <task id="LOCAL-00001" summary="website app 4">
       <created>1594052177613</created>
