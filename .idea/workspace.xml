@@ -2,8 +2,653 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a66f5c-fae8-4278-abc8-8092657cda68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/about-extra-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/about-extra-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/about-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/clients/client-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/clients/client-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/clients/client-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/clients/client-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/clients/client-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/clients/client-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/clients/client-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/clients/client-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/erp_make_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/header-bg.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/intro-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/intro-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/newlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/portfolio/app1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/portfolio/app2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/portfolio/app3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/portfolio/card1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/portfolio/card2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/portfolio/card3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/portfolio/web1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/portfolio/web2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/portfolio/web3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/ppfull.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/testimonial-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/testimonial-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/testimonial-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/testimonial-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img1/testimonial-5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eployee_app/templates/eployee_app/List.html" beforeDir="false" afterPath="$PROJECT_DIR$/eployee_app/templates/eployee_app/List.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/about-extra-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/about-extra-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/about-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/clients/client-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/header-bg.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/intro-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/intro-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/app1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/app2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/app3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/card1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/card2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/card3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/web1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/web2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/portfolio/web3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/img/testimonial-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/animate.css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/animate.css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/counterup/counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/icofont/fonts/icofont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/icofont/fonts/icofont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/icofont/icofont.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/css/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/ionicons/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/isotope-layout/isotope.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/isotope-layout/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/jquery.easing/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/mobile-nav/mobile-nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/owl.carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/php-email-form/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/venobox/venobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/venobox/venobox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/venobox/venobox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/waypoints/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/wow/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/assets/vendor/wow/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/css/util.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/Montserrat-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/fonts/montserrat/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/forms/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/forms/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/images/icons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/images/img-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/animate/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/bootstrap/js/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/css-hamburgers/hamburgers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/css-hamburgers/hamburgers.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/select2/select2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/select2/select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/select2/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/select2/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_app/static/vendor/tilt/tilt.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/css/util.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/Montserrat-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/fonts/montserrat/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/images/icons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/images/img-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/img/modern-halftone-pattern-background_1035-18855.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/img/wp2704824.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/animate/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/bootstrap/js/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/css-hamburgers/hamburgers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/css-hamburgers/hamburgers.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/select2/select2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/select2/select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/select2/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/select2/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eployee_app/static/vendor/tilt/tilt.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/about-extra-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/about-extra-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/about-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/clients/client-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/header-bg.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/intro-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/intro-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/newlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/portfolio/app1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/portfolio/app2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/portfolio/app3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/portfolio/card1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/portfolio/card2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/portfolio/card3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/portfolio/web1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/portfolio/web2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/portfolio/web3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/ppfull.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/testimonial-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/testimonial-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/website/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/default-assets/classy-nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/fonts/ElegantIcons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/fonts/ElegantIcons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/fonts/ElegantIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/fonts/ElegantIcons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/css/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/about-extra-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/about-extra-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/about-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/clients/client-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/header-bg.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/intro-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/intro-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/newlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/app1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/app2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/app3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/card1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/card2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/card3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/web1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/web2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/portfolio/web3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/img/testimonial-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/animate.css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/animate.css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/counterup/counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/icofont/fonts/icofont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/icofont/fonts/icofont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/icofont/icofont.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/css/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/ionicons/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/isotope-layout/isotope.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/isotope-layout/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/jquery.easing/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/jquery/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/mobile-nav/mobile-nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/owl.carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/php-email-form/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/venobox/venobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/venobox/venobox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/venobox/venobox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/waypoints/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/wow/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/assets/vendor/wow/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/about-extra-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/about-extra-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/about-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/clients/client-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/header-bg.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/intro-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/intro-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/portfolio/app1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/portfolio/app2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/portfolio/app3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/portfolio/card1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/portfolio/card2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/portfolio/card3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/portfolio/web1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/portfolio/web2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/portfolio/web3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/testimonial-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/img/testimonial-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/default-assets/active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/default-assets/ajax-content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/default-assets/avoid.console.error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/default-assets/classynav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/default-assets/jquery.barfiller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/default-assets/jquery.scrollup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/dento.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/jarallax-video.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/jarallax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/bg-img/adds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/pic/core-img/s9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/animate.css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/animate.css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/counterup/counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/icofont/fonts/icofont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/icofont/fonts/icofont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/icofont/icofont.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/css/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/ionicons/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/isotope-layout/isotope.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/isotope-layout/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/jquery.easing/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/mobile-nav/mobile-nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/owl.carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/php-email-form/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/venobox/venobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/venobox/venobox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/venobox/venobox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/waypoints/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/wow/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/static/vendor/wow/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/templates/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteapp/templates/website/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +689,20 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1eCQ5nCZ14fzCnoeGbOtHSsManM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/servicesapp/templates/servicesapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/assets/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,19 +715,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pythoneproject\website\static\assets\img" />
+      <recent name="C:\pythoneproject\website\servicesapp\templates\servicesapp" />
+      <recent name="C:\pythoneproject\website\servicesapp\templates" />
+      <recent name="C:\pythoneproject\website\static\img" />
+      <recent name="C:\pythoneproject\website\websiteapp\static\assets\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\pythoneproject\website\servicesapp\templates\servicesapp" />
       <recent name="C:\pythoneproject\website\eployee_app\templates\eployee_app" />
       <recent name="C:\pythoneproject\website\websiteapp\templates\website" />
       <recent name="C:\pythoneproject\website\websiteapp" />
       <recent name="C:\pythoneproject\website\aboutapp\templates\aboutapp" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\pythoneproject\website\servicesapp\templates\servicesapp" />
-      <recent name="C:\pythoneproject\website\servicesapp\templates" />
-      <recent name="C:\pythoneproject\website\static\img" />
-      <recent name="C:\pythoneproject\website\websiteapp\static\assets\css" />
-      <recent name="C:\pythoneproject\website\websiteapp\static\pic" />
     </key>
   </component>
   <component name="RunManager">
@@ -138,7 +787,10 @@
       <workItem from="1593822960727" duration="1615000" />
       <workItem from="1594049770939" duration="16037000" />
       <workItem from="1594276799916" duration="5685000" />
-      <workItem from="1594290580289" duration="6085000" />
+      <workItem from="1594290580289" duration="6256000" />
+      <workItem from="1594361206370" duration="1849000" />
+      <workItem from="1594363084194" duration="168000" />
+      <workItem from="1594363509933" duration="269000" />
     </task>
     <task id="LOCAL-00001" summary="website app 4">
       <created>1594052177613</created>
@@ -154,6 +806,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="website app 4" />
     <option name="LAST_COMMIT_MESSAGE" value="website app 4" />
   </component>
@@ -174,26 +827,26 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="-4" y="0" width="1194" height="860" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1594052176556" />
-    <state width="1385" height="192" key="GridCell.Tab.0.bottom" timestamp="1594282121619">
+    <state width="1385" height="192" key="GridCell.Tab.0.bottom" timestamp="1594363731891">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1385" height="192" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1594282121619" />
-    <state width="1385" height="192" key="GridCell.Tab.0.center" timestamp="1594282121619">
+    <state width="1385" height="192" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1594363731891" />
+    <state width="1385" height="192" key="GridCell.Tab.0.center" timestamp="1594363731891">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1385" height="192" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1594282121619" />
-    <state width="1385" height="192" key="GridCell.Tab.0.left" timestamp="1594282121619">
+    <state width="1385" height="192" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1594363731891" />
+    <state width="1385" height="192" key="GridCell.Tab.0.left" timestamp="1594363731891">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1385" height="192" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1594282121619" />
-    <state width="1385" height="192" key="GridCell.Tab.0.right" timestamp="1594282121619">
+    <state width="1385" height="192" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1594363731891" />
+    <state width="1385" height="192" key="GridCell.Tab.0.right" timestamp="1594363731891">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1385" height="192" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1594282121619" />
-    <state x="346" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1594290588152">
+    <state width="1385" height="192" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1594363731891" />
+    <state x="346" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1594363517048">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="346" y="216" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1594290588152" />
+    <state x="346" y="216" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1594363517048" />
     <state x="478" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594067600856">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
